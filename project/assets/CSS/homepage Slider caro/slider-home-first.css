@@ -1,0 +1,35 @@
+.main-curved-con .carousel-control-prev-icon-first {
+    height: 55px;
+    width: 55px;
+    border-radius: 100%;
+    background-color: #01B18E;
+    margin: -8rem 0 0 -4rem;
+}
+
+.carousel-control-prev-icon-first .inner-play-left {
+    margin: 1.1rem auto auto 1.2rem;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-right: 15px solid #FFFFFF;
+    border-bottom: 10px solid transparent;
+    border-radius: 5px;
+}
+
+.main-curved-con .carousel-control-next-icon-first {
+    height: 55px;
+    width: 55px;
+    border-radius: 100%;
+    background-color: #01B18E;
+    margin: -8rem -4rem 0 0;
+}
+
+.carousel-control-next-icon-first .inner-play-right {
+    margin: 1.1rem 0 auto 1.4rem;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-left: 15px solid #FFFFFF;
+    border-bottom: 10px solid transparent;
+    border-radius: 5px;
+}

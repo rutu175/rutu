@@ -1,0 +1,172 @@
+/* core */
+
+.footer-section {
+    margin: 6rem 0 0 0;
+    background-color: #164D92;
+    width: 100%;
+    height: 55vh;
+    padding: 3rem 0 0 0;
+}
+
+/* LOGO */
+
+.ft-logo-con {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    background-color: #ffffff;
+    margin: 0 0 2rem 1rem;
+}
+
+.ft-logo-con img {
+    width: 100%;
+    height: 100%;
+}
+
+.ft-logo-para {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 12px;
+    color: #FFFFFF;
+    margin: 0 0 2rem -2rem;
+}
+
+.ft-logo-heading-social {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 0 0 0.7rem 0.5rem;
+}
+
+.ft-logo-social-icon-con {
+    display: flex;
+    margin: 0 0 2rem 1.3rem;
+}
+
+.ft-logo-social-icon-1 {
+    margin: 0 0.5rem 0 0.5rem;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+}
+
+.ft-logo-social-icon-2 {
+    margin: 0 0.5rem 0 0.5rem;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+}
+
+.ft-logo-social-icon-3 {
+    margin: 0 0.5rem 0 0.5rem;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+}
+
+/* ft LOGO END */
+
+/* ft ABOUT */
+.ft-abt-heading-con {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 0 0 0 4rem;
+}
+
+.ft-about-list-con {
+    margin: 2rem 0 2rem 2rem;
+    /* align-items: center;
+    text-align: center; */
+}
+
+.ft-about-list-con li {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    color: #FFFFFF;
+    margin-top: 10px;
+    letter-spacing: 0.001px;
+}
+
+/* ft ABOUT END */
+
+/* ft NAVIGATION */
+
+.ft-nav-heading-con {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 0 0 0 3rem;
+}
+
+.ft-nav-list-con {
+    margin: 2rem 0 2rem 1rem;
+}
+
+.ft-nav-list-con li {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    color: #FFFFFF;
+    margin-top: 10px;
+    letter-spacing: 0.001px;
+}
+
+/* ft NAVIGATION END */
+
+/* ft HELP */
+
+.ft-help-heading-con {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0 0 0 1rem;
+}
+
+/* ft HELP END */
+
+/* ft Address */
+
+.ft-add-heading-con {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 0 0 0 -100px;
+    display: flex;
+    text-transform: uppercase;
+}
+
+.ft-address-para-con {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.001px;
+    color: #FFFFFF;
+    margin: 0 0 0 -100px;
+}

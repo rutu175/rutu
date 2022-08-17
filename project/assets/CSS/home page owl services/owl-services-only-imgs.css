@@ -1,0 +1,112 @@
+.section-3-main-con {
+    padding: 3.5rem 0 0 0;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+}
+
+.first-carousel-main-con {
+    width: 100%;
+    /* background-color: #F0ECF9; */
+    padding: 0 5rem 0 5rem;
+}
+
+.section-3-title {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #164D92;
+    margin: 0 auto 0 auto;
+    background-color: #ffffff;
+    padding: 1rem 0 0 0;
+    width: 30rem;
+    height: 82px;
+    background: #FFFFFF;
+    box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.first-carousel-main-con .item a {
+    text-decoration: none;
+}
+
+.owl-item-img-con {
+    width: 349px;
+    height: 271px;
+    background: #C4C4C4;
+    background-color: #ffffff;
+    border-radius: 91px;
+    margin: 3rem 20px 0;
+    text-align: center;
+    align-items: center;
+    padding: 8rem 0 0 0;
+}
+
+
+.owl-item-img-con p {
+    width: 146px;
+    height: 37px;
+    background: #164D92;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+    margin: 4rem auto 0 auto;
+}
+
+
+/* buttons con*/
+
+.owl-carousel .prod-prev-slide {
+    width: 60.21px;
+    height: 60px;
+    background: #01B18E;
+    position: absolute;
+    top: 9.5rem;
+    left: 1rem;
+    border-radius: 50%;
+}
+
+/* button inner next prev btn */
+
+.prod-prev-slide .inner-play-left {
+    margin: 1.2rem auto auto 1.3rem;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-right: 15px solid #FFFFFF;
+    border-bottom: 10px solid transparent;
+    border-radius: 5px;
+}
+
+.owl-carousel .prod-next-slide {
+    width: 60.21px;
+    height: 60px;
+    background: #01B18E;
+    position: absolute;
+    top: 9.5rem;
+    right: 1rem;
+    border-radius: 50%;
+}
+
+.prod-next-slide .inner-play-right {
+    margin: 1.2rem 0 auto 1.6rem;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-left: 15px solid #FFFFFF;
+    border-bottom: 10px solid transparent;
+    border-radius: 5px;
+}
+
+
+
+.owl-bottom-line {
+    width: 100%;
+    height: 18px;
+    background-color: #164D92;
+    margin: -1rem 0 0 0;
+}
